@@ -1,0 +1,387 @@
+/*
+.jumbotron
+{
+    background-image: url("../img/header.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #ecf0f1;
+    margin-bottom: 0px;
+    padding-top: 100px;
+    padding-bottom: 60%;
+    min-height: 100%;
+    min-width: 100%;
+}
+*/
+
+
+.mylead
+{
+    background-color: rgba(52, 73, 94, 0.35);
+}
+
+.myfontColor
+{
+    color: #868e96;
+}
+
+#product
+{
+    background-color: #ecf0f1;
+}
+.mypadding
+{
+    padding-top: 20px;
+}
+.myimage
+{
+    margin-left: 30%;       
+}
+
+.mylist
+{
+    list-style: none;
+}
+
+.mytext
+{
+    text-align: center;
+}
+
+.myMargin
+{
+     margin-top: 30px;
+}
+
+.myPaddingMedia
+{
+    padding-top: 20px;
+    padding: 35px;
+}
+#price
+{
+    background-color: #bdc3c7;
+    padding-top: 30px;
+}
+
+.myCard2
+{
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.myCardBody
+{
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+}
+
+.Business-class
+{
+    background-image: url("../img/business2.jpg") ;
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1px;
+    /* color: #ecf0f1;
+    margin-bottom: 0px;*/
+}
+
+/*
+.mytext
+{
+    font-size: 12px;
+    text-align: justify;
+}
+*/
+
+
+.myBottom
+{
+    padding-bottom: 5px;
+}
+
+
+.business
+{
+    background: rgb(201, 216, 245);
+    padding: 10px 10px;
+    border: 1px solid #e4e9ee;
+    box-shadow: 2px 2px 5px 0 rgba(51, 92, 97, 0.822);
+    -webkit-box-shadow:2px 2px 5px 0 rgba(55,50,40, .20);
+    -moz-box-shadow:2px 2px 5px 0 rgba(55,50,40, .20);
+    -o-box-shadow:2px 2px 5px 0 rgba(55,50,40, .20);
+    -ms-box-shadow:2px 2px 5px 0 rgba(55,50,40, .20);
+    transition: 3s ease-in-out;
+    -webkit-transition: 3s ease-in-out;
+    -moz-transition: 3s ease-in-out;
+
+}
+
+.business:hover 
+{
+    background: #477c83;
+    color: #000;
+}
+
+.business:hover i
+{
+    color: #000;
+}
+.business:hover h4
+{
+    color: #000;
+}
+
+.business:hover p
+{
+    color: #ecf0f1;
+}
+
+.business i 
+{
+    font-size: 60px;
+    color: #8ce8f8ef;
+    margin-bottom: 20px;
+}
+
+.business h4
+{
+    font-size: 16px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-top: 15px;
+}
+
+.business p 
+{
+    font-size: 12px;
+    color: #777777;
+}
+
+
+.myspan
+{
+    background-color: #ecf0f1;
+}
+
+#Contact
+{
+    padding-top: 50px;
+    background-color: whitesmoke;
+}
+
+#footer
+{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    background-color: #9eb1c5;
+    color: #111;
+    float: inline-end;
+   
+}
+
+.fixUl
+{
+    padding-left: 0;
+}
+
+
+ /*
+  #myinfo
+    {
+    background-color: #bdc3c7;
+    padding-top: 57px;
+    padding-bottom: 20px;
+    }
+ */
+   
+
+
+
+#myteam
+{
+    background-color: #bdc3c7;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+a:hover
+ {
+    color: #0cbcf1;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link
+ {
+ 
+    color: #011F44;
+}
+
+.mysize
+{
+    width: 100px;
+    height: 600px;
+    
+}
+
+#btnScroll
+{
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+    z-index: 99;
+    cursor: pointer;
+    padding: 16px;
+
+}
+
+@media (max-width:575px)
+{
+    h1
+    {
+        font-size: 16px;
+    }
+    p
+    {
+        font-size: 16px;
+       
+    }
+}
+
+@media (max-width: 767px)
+{
+    h1
+    {
+        font-size: 16px;
+    }
+    p
+    {
+        font-size: 16px;
+       
+    }
+}
+
+@media (max-width: 991px)
+{
+    h1
+    {
+        font-size: 16px;
+    }
+    p
+    {
+        font-size: 16px;
+        
+    }
+}
+
+@media (max-width: 1199px)
+{
+    h1
+    {
+        font-size: 16px;
+    }
+    p
+    {
+        font-size: 16px;
+       
+    }
+}
+
+/*Tablet*/
+@media screen and (max-wight: 768px)
+{
+    h4
+    {
+        font-size: 20px;
+    }
+    h6
+    {
+        font-size: 14px;
+    }
+    p
+    {
+        font-size: 12px; 
+    }
+    a
+    {
+        font-size: 10px;
+    }
+}
+
+/*Mobile*/
+@media only screen and (max-wight: 600px)
+{
+    h4
+    {
+        font-size: 20px;
+    }
+    h6
+    {
+        font-size: 14px;
+    }
+    p
+    {
+        font-size: 12px; 
+    }
+    a
+    {
+        font-size: 10px;
+    }
+};
+
+/*Laptop*/
+@media only screen and (max-wight: 992px)
+{
+    h4
+    {
+        font-size: 20px;
+    }
+    h6
+    {
+        font-size: 14px;
+    }
+    p
+    {
+        font-size: 12px; 
+    }
+    a
+    {
+        font-size: 10px;
+    }
+};
+
+/*Large screen*/
+@media screen and (max-wight: 1200px)
+{
+    h4
+    {
+        font-size: 20px;
+    }
+    h6
+    {
+        font-size: 14px;
+    }
+    p
+    {
+        font-size: 12px; 
+    }
+    a
+    {
+        font-size: 10px;
+    }
+}
+
+.pic
+{
+    margin-top: 10px;
+}
+
+.mym
+{
+    padding-top: 10px;
+}
